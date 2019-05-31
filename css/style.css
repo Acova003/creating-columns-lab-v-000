@@ -68,3 +68,6 @@ img:hover {
   width: 750px;
 }
 
+.group {
+  display: flow-root;
+}
