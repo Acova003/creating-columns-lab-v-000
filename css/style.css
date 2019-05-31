@@ -71,3 +71,7 @@ img:hover {
 .vertical {
   display: inline-block;
 }
+
+div {
+  display: inline-block;
+}
