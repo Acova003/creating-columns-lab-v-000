@@ -67,3 +67,7 @@ img:hover {
   margin: 0 auto;
   width: 75%;
 }
+
+.vertical {
+  display: inline-block;
+}
