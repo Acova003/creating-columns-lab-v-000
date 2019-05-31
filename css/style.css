@@ -55,17 +55,17 @@ img:hover {
 /* create your tile classes! we recommend .small .med .large */
 .small {
   margin: 0 auto;
-  width: 250px;
+  width: 25%;
 }
 
 .medium {
   margin: 0 auto;
-  width: 500px;
+  width: 50%;
 }
 
 .large {
   margin: 0 auto;
-  width: 750px;
+  width: 75%;
 }
 
 .vertical {
